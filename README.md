@@ -8,4 +8,4 @@ Throughout the SureStart program, I hope to gain a better understanding about ma
 **Day 2: February 9, 2021**
 1. Supervised learning incorporates a data set for training the program to provide it with the ability to determine an accurate interpretation for newly introduced data. In contrast, unsupervised learning relies on the program finding patterns and relationships between a given data set; unsupervised learning makes correlations between data without the use of training examples.
 
-2.Scikit-Learn is a machine learning library uses for data modeling, but it is not helpful in visualizing data. This is why Scikil-Learn is used with other libraries such as Graphviz, Pandas, etc. to assist in the analysis,visualisation, and manipulation of data.
+2. Scikit-Learn is a machine learning library uses for data modeling, but it is not helpful in visualizing data. This is why Scikil-Learn is used with other libraries such as Graphviz, Pandas, etc. to assist in the analysis,visualisation, and manipulation of data.
