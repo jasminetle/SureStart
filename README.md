@@ -5,7 +5,7 @@
 
 Throughout the SureStart program, I hope to gain a better understanding about machine learning and artificial intelligence. I am excited to deepen my understanding on how AI and machine learning works. Additionally, I want to gain more confidence speaking about technical topics and more experience working within a team environment. I want to improve my soft skills while continuing to develop my technical skills. I am looking forward to working with and getting to know the wonderful people in the program. I am grateful for the opporunity to learn from my team, mentor, and the sure start team!
 
-<ins>Day 2: February 9, 2021**</ins>
+<ins>**Day 2: February 9, 2021**</ins>
 
 My team and I had our first team meeting today, and we were able to analyze and determine our scrums for the next three days. I became a lot more familiar with machine learning models and algorithms after reading the articles. It was facinating to read how a program goes about making determinations on new data and the math behind it all. Additionally, I learned how to use Jupyter notebook for the first time and became more familiar with the Scikit-learn library. 
 
