@@ -19,9 +19,13 @@ Supervised learning incorporates a data set for training the program to provide 
 Scikit-Learn is a machine learning library uses for data modeling, but it is not helpful in visualizing data. This is why Scikit-Learn is used with other libraries such as Graphviz, Pandas, etc. to assist in the analysis,visualisation, and manipulation of data.
 
 <ins>**Day 3: February 10, 2021**</ins>
+
 **1.What are “Tensors” and what are they used for in Machine Learning?**
+
 Tensors are multidimensional data arrays that communicate between the edges of mathematical operations wihin a data flow graph. Tensors can be genrealized to illustrate plane vectors, covectors, and linear operators. In machine learning they are used to train deep learning models and the operations within neural networks. 
+
 **2. What did you notice about the computations that you ran in the TensorFlow
 programs (i.e. interactive models) in the tutorial?**
+
 The computations illustrated how the tensor arrays are computed together, how constants do not change the value of the tensors, and that "sess.close()" will close the session automatically.
 Additionally, after loading in the data set, you will get a better insight on how the model performs.  
