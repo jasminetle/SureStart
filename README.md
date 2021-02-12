@@ -32,5 +32,5 @@ Additionally, after loading in the data set, you will get a better insight on ho
 
 <ins>**Day 4: February 11, 2021**</ins>
 
-I feel that cyber security is a general problem within our technological filled world, moreso, having the ability to use artificial intelligence to predict when an attack  may happen could be substantial. I found the data set below that contains data regarding cyber security events within a 58 day period. The deep learning algorithm I think would work best for a solution is a generative adversarial neural networks. As an unsupervised algorithm that can work to distinguish denuine samples from fake samples and generate patterns, I think it would be able to deceipher real malicious attacks and predict when an attack is likely to occur. 
-Link to data set: https://csr.lanl.gov/data/cyber1/
+I feel that cyber security is a general problem within our technological filled world, more so, having the ability to use artificial intelligence to predict when an attack may happen could be substantial. I found the data set below that contains data regarding cyber security malware. The deep learning algorithm I think would work best for a solution is a generative adversarial neural networks. As an unsupervised algorithm that can work to distinguish genuine samples from fake samples and generate patterns, I think it would be able to predict malicious attacks through the classification of different malware. 
+Link to data set: https://www.kaggle.com/c/malware-classification/data
