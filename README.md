@@ -8,15 +8,15 @@ Throughout the SureStart program, I hope to gain a better understanding about ma
 
 <ins>**Day 2: February 9, 2021**</ins>
 
-My team and I had our first team meeting today, and we were able to analyze and determine our scrums for the next three days. I became a lot more familiar with machine learning models and algorithms after reading the articles. It was facinating to read how a program goes about making determinations on new data and the math behind it all. Additionally, I learned how to use Jupyter notebook for the first time and became more familiar with the Scikit-learn library. 
+My team and I had our first team meeting today. We were able to settle on a time for our next three scrums. After completing the action item for today, I am more familiar with machine learning models and algorithms. I learned that machine learning allows computers to learn without being programmed to do so. The two types of learning are supervised ML and unsupervised ML. Supervised ML consists of two major subcategories regression ML systems (systems that attempt to plot predicted values on a continuous spectrum) and classification ML systems (systems that seek a prediction of yes/no). It was fascinating to read how a program makes determinations on new data. Additionally, used Jupyter notebook for the first time to became more familiar with the Scikit-learn library.
 
-**1. What is the difference between supervised and unsupervised learning?**
+**1. What is the difference between supervised and unsupervised learning? **
 
-Supervised learning incorporates a data set for training the program to provide it with the ability to determine an   accurate interpretation for newly introduced data. In contrast, unsupervised learning relies on the program finding patterns and relationships between a given data set; unsupervised learning makes correlations between data without the use of training examples.
+Supervised learning incorporates a data set for training a program to determine accurate interpretations for data introduced into the system. In contrast, unsupervised learning relies on a program finding patterns and relationships between a given data set and makes correlations between data without the use of training examples.
 
-**2. Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.**
+**2. Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries. **
 
-Scikit-Learn is a machine learning library uses for data modeling, but it is not helpful in visualizing data. This is why Scikit-Learn is used with other libraries such as Graphviz, Pandas, etc. to assist in the analysis,visualisation, and manipulation of data.
+Scikit-Learn is a machine learning library that provides supervised and unsupervised learning algorithms. The library is mainly used for data modeling, but it is not necessarily helpful for visualizing data. Scikit-Learn is used with other libraries such as Graphviz, Pandas, etc. to assist in the analysis, visualization, and manipulation of data.
 
 <ins>**Day 3: February 10, 2021**</ins>
 
@@ -34,3 +34,10 @@ Additionally, after loading in the data set, you will get a better insight on ho
 
 I feel that cyber security is a general problem within our technological filled world, more so, having the ability to use artificial intelligence to predict when an attack may happen could be substantial. I found the data set below that contains data regarding cyber security malware. The deep learning algorithm I think would work best for a solution is a generative adversarial neural networks. As an unsupervised algorithm that can work to distinguish genuine samples from fake samples and generate patterns, I think it would be able to predict malicious attacks through the classification of different malware. 
 Link to data set: https://www.kaggle.com/c/malware-classification/data
+
+<ins>**Day 5: February 12, 2021**</ins>
+I developed a neural network model: Sarcasm Dectector.
+
+<ins>**Day 8: February 15, 2021**</ins>
+I learned about convolutional networks and how they work.
+The action item for this day involve extending a CNN to use the mnist dataset.
