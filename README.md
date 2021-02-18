@@ -41,3 +41,15 @@ I developed a neural network model: Sarcasm Dectector.
 <ins>**Day 8: February 15, 2021**</ins>
 I learned about convolutional networks and how they work.
 The action item for this day involve extending a CNN to use the mnist dataset.
+
+<ins>**Day 9: February 16, 2021**</ins>
+Today, I learned about the different types of bias. Biased data affects ML learning and can lead to algorithmic bias that causes programs to make unjust and harmful decisions. It is important when collecting data to evaluate for fairness and inclusion and by using bias mitigation techniques, we can build more ethical AI. During the talk, I learned that humans are implicitly biased. I am more aware of factors that lead to bias and how they can be addressed; the presentation lined up very well with what I learned today.  
+
+**1. How do you think Machine Learning or AI concepts were utilized in the design of this game?**
+
+The game gave little time to think about each candidate as the rounds went on. As I was choosing the candidates, I did not realize the implicit bias that I possessed until the ML algorithm was deciding which candidates to hire based on my data. The AI techniques were evident in the hiring process when the machine began choosing the candidates based on data I gave it. Additionally, the machine needed a larger data set to accomadate ML learning and borrowed so from a bigger corporation. The problem was that the larger data set may not have held my same standards for applications. While playing the game, I did not really take into account how the categories and color of the people could ellict implict bias from me as I mostly looked at the chart and tried to select a well rounded individual. Some of the people the machine let go, I would have hired which made me more aware of how ML can be affected by bias from my data.
+
+**2. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, andequitable? Please reflect on why you selected this specific biased model.**
+
+A real-world example of a biased machine learning model is racism within US health care. Gernarally, minorities are more likely to face racism and discrimination within the US health care system. This example can be applied to both paitients and health care workers; doctors and nurses may be discriminated against and the target of bias by patients and on the other hand patients have also faced prejudice from health care professionals. I believe that being more open minded and aware of our own implicit biases can create a more fair and inclusive model. I chose this model specifically because as humans we take our health seriously, and I don't believe that healthcare professionals or patients should have to face bias and racism when providing or receiving treatment.
+
