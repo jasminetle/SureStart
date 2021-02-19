@@ -53,3 +53,14 @@ The game gave little time to think about each candidate as the rounds went on. A
 
 A real-world example of a biased machine learning model is racism within US health care. Gernarally, minorities are more likely to face racism and discrimination within the US health care system. This example can be applied to both paitients and health care workers; doctors and nurses may be discriminated against and the target of bias by patients and on the other hand patients have also faced prejudice from health care professionals. I believe that being more open minded and aware of our own implicit biases can create a more fair and inclusive model. I chose this model specifically because as humans we take our health seriously, and I don't believe that healthcare professionals or patients should have to face bias and racism when providing or receiving treatment.
 
+<ins>**Day 10: February 17, 2021**</ins>
+
+A convolutional neural network specializes in image recognition and completing computer vision tasks. CNNs accomplishes the task through a pooling mechanism and a fully connected layer. The pooling or convolution mechanism breaks up an image into features and analyzes them and pass its output into a fully connected layer that uses said output to predict the best label for the image.
+A fully connected neural network, on the other hand, is a NN architecture in which all neurons on one layer is connected to all neurons in the next. This type of architecture is inefficent for computer vision tasks as images are considered very large input for a NN and would require a fully connected NN to contain a huge number of connections as well as network parameters. 
+
+The type of layers in a CNN includes:
+- convolutional: "filter" pass over image, scanning pixels, and create a map that predicts the class which of each feature
+- pooling: reduce amount of information for each feature obtained by the previous layer
+- fully connected input: "flattens" output of previous layer into a single vector for the next layer
+- first fully connected: takes the input from the feature anaylsis and applies weights
+- fully connected output: provides final probabilities for each label
