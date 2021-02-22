@@ -73,5 +73,5 @@ I reviewed neural networks and some common terminology including: training data,
 1) Preparing the data
 2) Building the Network
 3) Evaluating the Model
-4) 
+
 I also learned concepts such as overfitting, "one-hot encoded" vectors, and became more familiar with the MNIST dataset.
