@@ -64,3 +64,13 @@ The type of layers in a CNN includes:
 - fully connected input: "flattens" output of previous layer into a single vector for the next layer
 - first fully connected: takes the input from the feature anaylsis and applies weights
 - fully connected output: provides final probabilities for each label
+
+<ins>**Day 11: February 18,2021**</ins>
+
+I developed a CNN for MNIST Handwritten Digit Classification dataset, evaluated the performance of the model, and made predictions for test data by following this guide: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
+
+I reviewed neural networks and some common terminology including: training data, test data, and loss function. Additionally, I reviewed the common steps in a machine learning task:
+1) Preparing the data
+2) Building the Network
+3) Evaluating the Model
+I also learned concepts such as overfitting, "one-hot encoded" vectors, and became more familiar with the MNIST dataset.
