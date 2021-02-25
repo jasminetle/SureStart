@@ -65,7 +65,7 @@ The type of layers in a CNN includes:
 - first fully connected: takes the input from the feature anaylsis and applies weights
 - fully connected output: provides final probabilities for each label
 
-<ins>**Day 11: February 18,2021**</ins>
+<ins>**Day 11: February 18, 2021**</ins>
 
 I developed a CNN for MNIST Handwritten Digit Classification dataset, evaluated the performance of the model, and made predictions for test data by following this guide: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
 
@@ -76,8 +76,14 @@ I reviewed neural networks and some common terminology including: training data,
 
 I also learned concepts such as overfitting, "one-hot encoded" vectors, and became more familiar with the MNIST dataset.
 
-<ins>**Day 12: February 19,2021**</ins>
+<ins>**Day 12: February 19, 2021**</ins>
 
 I learned how to build an image classification model. I trained an image classifier from scratch with the cat vs dog dataset on kaggle. 
 
 I used the following reference to accomplish this task: https://keras.io/examples/vision/image_classification_from_scratch/
+
+<ins>**Day 16: February 23, 2021**</ins>
+
+An activation function in a NN defines how each node is internally processed in a network. The activation function that you choose greatly impacts the capability and performance of the NN.
+
+The rectified linear activation function (ReLU activation function) is a one of the most common function used for hidden layers. ReLU is simple to implement and is more efficent compared to other activation functions. ReLU is less susceptible to vanishing gradients which prevents deep models from being trained. ReLU is mose commonly used within Multilayer Perceptron and Convolutional Neural Networks. Some advantages of the rectified linear activation function includes computational simplicity, linear behavior, and its ability to train deep networks. A use case for the ReLU activation function would be to diagnose and detect COVID 19 from CT scans within a deep learning NN.
