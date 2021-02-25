@@ -75,3 +75,9 @@ I reviewed neural networks and some common terminology including: training data,
 3) Evaluating the Model
 
 I also learned concepts such as overfitting, "one-hot encoded" vectors, and became more familiar with the MNIST dataset.
+
+<ins>**Day 12: February 19,2021**</ins>
+
+I learned how to build an image classification model. I trained an image classifier from scratch with the cat vs dog dataset on kaggle. 
+
+I used the following reference to accomplish this task: https://keras.io/examples/vision/image_classification_from_scratch/
