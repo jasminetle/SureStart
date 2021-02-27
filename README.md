@@ -87,3 +87,6 @@ I used the following reference to accomplish this task: https://keras.io/example
 An activation function in a NN defines how each node is internally processed in a network. The activation function that you choose greatly impacts the capability and performance of the NN.
 
 The rectified linear activation function (ReLU activation function) is a one of the most common function used for hidden layers. ReLU is simple to implement and is more efficent compared to other activation functions. ReLU is less susceptible to vanishing gradients which prevents deep models from being trained. ReLU is mose commonly used within Multilayer Perceptron and Convolutional Neural Networks. Some advantages of the rectified linear activation function includes computational simplicity, linear behavior, and its ability to train deep networks. A use case for the ReLU activation function would be to diagnose and detect COVID 19 from CT scans within a deep learning NN.
+
+<ins>**Day 17: February 24, 2021**</ins>
+Built a simple CNN model to predict house prices. 
