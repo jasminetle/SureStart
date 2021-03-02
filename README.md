@@ -90,3 +90,18 @@ The rectified linear activation function (ReLU activation function) is a one of 
 
 <ins>**Day 17: February 24, 2021**</ins>
 Built a simple CNN model to predict house prices. 
+
+<ins>**Day 18: February 25, 2021**</ins>
+Today, I learned more about overfitting and some strategies that can be used to avoid overfitting. I followed the "Hands on Tutorial: Handling overfitting in deep learning models" and uploaded the code to Github. I learned how a model can be classified as underfit, overfit, and good fit depending on how well the model is learning on the training dataset. 
+
+- Underfit Model: A model that fails to sufficiently learn the problem, performs poorly on a training dataset, and does not perform well newly introduced data
+- Overfit Model: A model that learns the training dataset too well, performing well on the training dataset but does not perform well on newly introduced data
+- Good Fit Model: A model that suitably learns the training dataset and generalizes well to the old dataset 
+
+Some ways overfitting can be reduced:
+- Applying regularization
+- Data augmentation
+- Dropout layers
+- Early stopping
+
+When I went back to the housing prices model from yester and changed the loss to regression based function, I noticed that using the mean squared error activation function resulted in a smoother curve for the loss curves for training and validation. Additionally, I think that overfitting was not as big as a problem when using this activation function.
