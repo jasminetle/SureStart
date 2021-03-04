@@ -105,3 +105,9 @@ Some ways overfitting can be reduced:
 - Early stopping
 
 When I went back to the housing prices model from yester and changed the loss to regression based function, I noticed that using the mean squared error activation function resulted in a smoother curve for the loss curves for training and validation. Additionally, I think that overfitting was not as big as a problem when using this activation function.
+
+<ins>**Day 19: February 26, 2021**</ins>
+
+Today, I followed the tutorials and learned about [upsampling](https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/) and [autoencoders](https://blog.keras.io/building-autoencoders-in-keras.html).
+
+I added the code to github for action items day 19. 
