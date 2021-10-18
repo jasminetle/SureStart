@@ -113,5 +113,7 @@ Today, I followed the tutorials and learned about [upsampling](https://machinele
 I added the code to github for action items day 19. 
 
 **Final Project**
-https://www.youtube.com/watch?v=qcQHELI4rok
-Project Repository: https://github.com/jasminetle/Makeathon
+
+**Project Presentation:** https://www.youtube.com/watch?v=qcQHELI4rok
+
+**Project Repository:** https://github.com/jasminetle/Makeathon
