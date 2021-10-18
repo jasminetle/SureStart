@@ -111,3 +111,7 @@ When I went back to the housing prices model from yester and changed the loss to
 Today, I followed the tutorials and learned about [upsampling](https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/) and [autoencoders](https://blog.keras.io/building-autoencoders-in-keras.html).
 
 I added the code to github for action items day 19. 
+
+**Final Project**
+https://www.youtube.com/watch?v=qcQHELI4rok
+
